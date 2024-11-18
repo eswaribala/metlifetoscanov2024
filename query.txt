@@ -1,0 +1,4 @@
+LOAD DATA LOCAL INFILE 'c:/training/customer.csv' INTO TABLE toscadb.customer
+  FIELDS TERMINATED BY ',' ENCLOSED BY '"'
+  LINES TERMINATED BY '\r\n'
+  IGNORE 1 LINES;
