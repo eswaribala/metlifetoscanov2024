@@ -1,4 +1,10 @@
 form{
-    width: 40%;
+    width: 35%;
     float: right;
+    font-size: large;
+    font-family: "Arial Black";
+    font-weight: bold;
+    border: 2px solid green;
+    background-color: azure;
+    text-align: center;
 }

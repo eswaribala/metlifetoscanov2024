@@ -11,9 +11,43 @@
     <fieldset>
         <legend>Registration Form</legend>
         <div>
-        <label>First Name</label>
-        <input id="firstName" type="text">
+         <label>First Name</label>
+         <input id="firstName" type="text">
          </div>
+        <div>
+            <label>Last Name</label>
+            <input id="lastName" type="text">
+        </div>
+        <div>
+            <label>DOB</label>
+            <input id="dob" type="date">
+        </div>
+        <div>
+            <label>Gender</label>
+            <input id="gender" type="text" list="genderlist">
+        </div>
+        <div>
+            <label>Occupation</label>
+            <span>
+            <input type="radio" name="occupation" value="Public">
+                Public
+            </span>
+            <input type="radio" name="occupation" value="Private">
+            Private
+            </span>
+            <input type="radio" name="occupation" value="NGO">
+            NGO
+            </span>
+            <input type="radio" name="occupation" value="Corporate">
+            Corporate
+            </span>
+
+        </div>
+        <div>
+            <label>Upload Photo</label>
+            <input type="file" id="profilePhoto">
+        </div>
+
 
          <div>
         <input type="submit" value="submit">
@@ -21,7 +55,11 @@
     </fieldset>
 
 </form>
-
+<datalist id="genderlist">
+    <option>MALE</option>
+    <option>FEMALE</option>
+    <option>TRANSGENDER</option>
+</datalist>
 
 </body>
 </html>
