@@ -1,0 +1,40 @@
+[3] 14:46:50: Log started for 'H:\toscaprojects\saucelabdemo\saucelabdemo.tws'
+[3] 14:46:50: Log level: 4
+[3] 14:46:50: Release: 24.1.1.5090
+[3] 14:46:50: Execution Approval is disabled.
+[3] 14:46:50: No service discovery configured.
+[3] 14:46:51:  Save started!
+[3] 14:46:51: QTestIntegrationAddIn beginning to Export to QTest
+[3] 14:46:51: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 14:46:51: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 14:46:51: LinkTcToQTestService grouping testcases by same endpoint
+[3] 14:46:51: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 14:46:51: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 14:46:51:  Save finished!
+[4] 14:46:53:  ShowStatusInfo: 'New Project with Default-Folders created!'
+[3] 14:46:53:  Save started!
+[3] 14:46:53: QTestIntegrationAddIn beginning to Export to QTest
+[3] 14:46:53: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 14:46:53: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 14:46:53: LinkTcToQTestService grouping testcases by same endpoint
+[3] 14:46:53: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 14:46:53: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 14:46:53:  Save finished!
+[4] 14:46:53:  ShowStatusInfo: 'Workspace 'H:\toscaprojects\saucelabdemo\saucelabdemo.tws' created successfully!'
+[4] 14:46:53:  ShowStatusInfo: 'Importing workspace template, please wait...'
+[2] 14:46:54: CommanderAssemblyResolver: Unable to resolve: Persistency.resources, Version=24.1.1.5090, Culture=en-IN, PublicKeyToken=null
+[2] 14:46:54: CommanderAssemblyResolver: Unable to resolve: Persistency.resources, Version=24.1.1.5090, Culture=en, PublicKeyToken=null
+[4] 14:46:55:  ShowStatusInfo: 'Import Subset finalizing ...'
+[4] 14:46:55:  ShowStatusInfo: 'Import Subset finished'
+[3] 14:46:55: Task 'Import Subset' finished
+[4] 14:46:55:  ShowStatusInfo: 'Workspace template successfully imported!'
+[3] 14:46:55:  Save started!
+[3] 14:46:55: QTestIntegrationAddIn beginning to Export to QTest
+[3] 14:46:55: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 14:46:55: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 14:46:55: LinkTcToQTestService grouping testcases by same endpoint
+[3] 14:46:55: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 14:46:55: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 14:46:57:  Save finished!
+[3] 14:47:02: Closing Workspace!
+[3] 14:47:02: Log closed!

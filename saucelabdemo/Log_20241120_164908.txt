@@ -1,0 +1,148 @@
+[3] 16:49:08: Log started for 'H:\toscaprojects\saucelabdemo\saucelabdemo.tws'
+[3] 16:49:08: Log level: 4
+[3] 16:49:08: Release: 24.1.1.5090
+[3] 16:49:08: Execution Approval is disabled.
+[3] 16:49:08: No service discovery configured.
+[3] 16:49:08:  + AccessibilityTestingUI: AccessibilityTestingUI 24.1.1.5090 (5090)
+[3] 16:49:08:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 24.1.1.5090 (5090)
+[3] 16:49:08:  + DistributedExecutionAddIn: DistributedExecutionAddIn 24.1.1.5090 (5090)
+[3] 16:49:08:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 24.1.1.5090 (5090)
+[3] 16:49:08:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 24.1.1.5090 (5090)
+[3] 16:49:08:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 24.1.1.5090 (5090)
+[3] 16:49:08:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 24.1.1.5090 (5090)
+[3] 16:49:08:  + IntegrationManagementAddIn: IntegrationManagementAddIn 24.1.1.5090 (5090)
+    + : SAPSolutionManagerIntegration 24.1.1.5090 (5090)
+[3] 16:49:08: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 16:49:08: Searcher found 0 results in 37.5433 ms
+[3] 16:49:08:  + OptIntAddIn: OptIntAddIn 24.1.1.5090 (5090)
+[3] 16:49:08:  + QTestIntegrationAddIn: QTestIntegrationAddIn 24.1.1.5090 (5090)
+[3] 16:49:08:  + RemoteControl: RemoteControlAddIn 24.1.1.5090 (5090)
+[3] 16:49:08:  + Reporting: ReportingAddIn 24.1.1.5090 (5090)
+[3] 16:49:08:  + ReportingUI: ReportingUIAddIn 24.1.1.5090 (5090)
+[3] 16:49:08:  + RequirementsManagementAddIn: RequirementsManagement 24.1.1.5090 (5090)
+[3] 16:49:08:  + RequirementsManagementUIAddIn: RequirementsManagementUI 24.1.1.5090 (5090)
+[3] 16:49:08:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 24.1.1.5090 (5090)
+[3] 16:49:08:  + TestCaseDesign: TestCaseDesign 24.1.1.5090 (5090)
+[3] 16:49:09: Opened from Workspace File 'H:\toscaprojects\saucelabdemo\saucelabdemo.tws'
+[2] 16:49:09: CommanderAssemblyResolver: Unable to resolve: System.Collections.Specialized.XmlSerializers, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[4] 16:49:17:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 16:49:17:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 16:49:17:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 16:49:17:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 16:49:17:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 16:49:17:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 16:49:17:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 16:49:17:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 16:49:17:  ShowStatusInfo: 'Refresh navigation view 'saucelabdemo''
+[4] 16:49:17:  ShowStatusInfo: 'Ready'
+[4] 16:49:17:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 16:49:17:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 16:49:17:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 16:49:17:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 16:49:17:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 16:49:17:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 16:49:17:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 16:49:17:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 16:49:17:  ShowStatusInfo: 'Refresh detail view 'saucelabdemo''
+[4] 16:49:17:  ShowStatusInfo: 'Ready'
+[4] 16:49:17:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 16:49:17:  ShowStatusInfo: 'Refresh all finished'
+[4] 16:49:18:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 16:49:18:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 16:49:18:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 16:49:18:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 16:49:18:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 16:49:18:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 16:49:18:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 16:49:18:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 16:49:18:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 16:49:18:  ShowStatusInfo: 'Refresh navigation view 'saucelabdemo''
+[4] 16:49:18:  ShowStatusInfo: 'Ready'
+[4] 16:49:18:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 16:49:18:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 16:49:18:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 16:49:18:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 16:49:18:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 16:49:18:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 16:49:18:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 16:49:18:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 16:49:18:  ShowStatusInfo: 'Refresh detail view 'saucelabdemo''
+[4] 16:49:18:  ShowStatusInfo: 'Ready'
+[4] 16:49:18:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 16:49:18:  ShowStatusInfo: 'Refresh all finished'
+[4] 16:49:18:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 16:49:18:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 16:49:18:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 16:49:18:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 16:49:18:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 16:49:18:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 16:49:18:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 16:49:18:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 16:49:18:  ShowStatusInfo: 'Refresh navigation view 'saucelabdemo''
+[4] 16:49:18:  ShowStatusInfo: 'Ready'
+[4] 16:49:18:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 16:49:18:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 16:49:18:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 16:49:18:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 16:49:18:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 16:49:18:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 16:49:18:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 16:49:18:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 16:49:18:  ShowStatusInfo: 'Refresh detail view 'saucelabdemo''
+[4] 16:49:18:  ShowStatusInfo: 'Ready'
+[4] 16:49:18:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 16:49:18:  ShowStatusInfo: 'Refresh all finished'
+[3] 16:49:19: OpenWorkspace took 00:00:12.0634452 to finish
+[2] 16:49:19: Common repository is not available
+[4] 16:49:23:  ShowStatusInfo: 'Ready'
+[4] 16:49:29:  ShowStatusInfo: '1 object selected'
+[4] 16:49:29:  ShowStatusInfo: 'Ready'
+[3] 16:49:32: Task 'Create Component Folder' started on ''
+[4] 16:49:32:  ShowStatusInfo: 'Create Component Folder'
+[4] 16:49:32:  ShowStatusInfo: 'Ready'
+[4] 16:49:32:  ShowStatusInfo: 'Component Folder finalizing ...'
+[4] 16:49:32:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 16:49:32:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 16:49:32:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 16:49:32:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 16:49:32:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 16:49:32:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 16:49:32:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 16:49:32:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 16:49:32:  ShowStatusInfo: 'Refresh navigation view 'saucelabdemo''
+[4] 16:49:32:  ShowStatusInfo: 'Ready'
+[4] 16:49:32:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 16:49:32:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 16:49:32:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 16:49:32:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 16:49:32:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 16:49:32:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 16:49:32:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 16:49:32:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 16:49:32:  ShowStatusInfo: 'Refresh detail view 'saucelabdemo''
+[4] 16:49:32:  ShowStatusInfo: 'Ready'
+[4] 16:49:32:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 16:49:32:  ShowStatusInfo: 'Refresh all finished'
+[4] 16:49:32:  ShowStatusInfo: 'Component Folder finished'
+[3] 16:49:32: Task 'Create Component Folder' finished
+[4] 16:49:32:  ShowStatusInfo: 'Ready'
+[4] 16:49:40:  ShowStatusInfo: '1 object selected'
+[4] 16:49:40:  ShowStatusInfo: 'Ready'
+[4] 16:50:32:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 16:50:32:  ShowStatusInfo: 'Ready'
+[4] 16:50:32:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 16:50:32:  ShowStatusInfo: 'Ready'
+[4] 16:50:32:  ShowStatusInfo: 'Refresh view finished'
+[4] 16:50:33:  ShowStatusInfo: 'Ready'
+[4] 16:50:33:  ShowStatusInfo: '1 object selected'
+[4] 16:50:36:  ShowStatusInfo: 'Ready'
+[4] 16:50:36:  ShowStatusInfo: '1 object selected'
+[4] 16:50:36:  ShowStatusInfo: 'Ready'
+[4] 16:50:37:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 16:50:37:  ShowStatusInfo: 'Ready'
+[4] 16:50:37:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 16:50:37:  ShowStatusInfo: 'Ready'
+[4] 16:50:37:  ShowStatusInfo: 'Refresh view finished'
+[4] 16:50:42:  ShowStatusInfo: 'Ready'
+[3] 16:50:45: Closing Workspace!
+[3] 16:50:45: Log closed!
