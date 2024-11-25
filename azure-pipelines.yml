@@ -8,9 +8,9 @@ pool:
 
 variables:
   tosciPath: 'C:\\Program Files (x86)\\TRICENTIS\\Tosca Testsuite\\ToscaCI'  # Path to ToscaCI.exe
-  workspacePath: 'C:\\Path\\To\\Your\\Workspace.tws'  # Path to the Tosca workspace
+  workspacePath: 'H:\\toscaprojects\\saucelabdemo\\saucelabdemo.tws'  # Path to the Tosca workspace
   executionList: 'ExecutionListName'  # Name of the execution list in Tosca
-  resultFilePath: 'C:\\Path\\To\\Results.xml'  # Path to save test results
+  resultFilePath: 'H:\\toscaprojects\\saucelabdemo\\Results.xml'  # Path to save test results
 
 stages:
   - stage: 'RunToscaTests'
