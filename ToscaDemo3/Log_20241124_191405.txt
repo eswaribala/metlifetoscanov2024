@@ -1,0 +1,509 @@
+[3] 19:14:05: Log started for 'H:\toscaprojects\ToscaDemo3\ToscaDemo3.tws'
+[3] 19:14:05: Log level: 4
+[3] 19:14:05: Release: 24.1.1.5090
+[3] 19:14:06: Execution Approval is disabled.
+[3] 19:14:06: No service discovery configured.
+[3] 19:14:06:  + AccessibilityTestingUI: AccessibilityTestingUI 24.1.1.5090 (5090)
+[3] 19:14:06:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 24.1.1.5090 (5090)
+[3] 19:14:06:  + DistributedExecutionAddIn: DistributedExecutionAddIn 24.1.1.5090 (5090)
+[3] 19:14:06:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 24.1.1.5090 (5090)
+[3] 19:14:06:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 24.1.1.5090 (5090)
+[3] 19:14:06:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 24.1.1.5090 (5090)
+[3] 19:14:06:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 24.1.1.5090 (5090)
+[3] 19:14:06:  + IntegrationManagementAddIn: IntegrationManagementAddIn 24.1.1.5090 (5090)
+    + : SAPSolutionManagerIntegration 24.1.1.5090 (5090)
+[3] 19:14:06: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 19:14:06: Searcher found 0 results in 35.2812 ms
+[3] 19:14:06:  + OptIntAddIn: OptIntAddIn 24.1.1.5090 (5090)
+[3] 19:14:06:  + QTestIntegrationAddIn: QTestIntegrationAddIn 24.1.1.5090 (5090)
+[3] 19:14:06:  + RemoteControl: RemoteControlAddIn 24.1.1.5090 (5090)
+[3] 19:14:06:  + Reporting: ReportingAddIn 24.1.1.5090 (5090)
+[3] 19:14:06:  + ReportingUI: ReportingUIAddIn 24.1.1.5090 (5090)
+[3] 19:14:06:  + RequirementsManagementAddIn: RequirementsManagement 24.1.1.5090 (5090)
+[3] 19:14:06:  + RequirementsManagementUIAddIn: RequirementsManagementUI 24.1.1.5090 (5090)
+[3] 19:14:06:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 24.1.1.5090 (5090)
+[3] 19:14:06:  + TestCaseDesign: TestCaseDesign 24.1.1.5090 (5090)
+[3] 19:14:06: Opened from Workspace File 'H:\toscaprojects\ToscaDemo3\ToscaDemo3.tws'
+[2] 19:14:06: CommanderAssemblyResolver: Unable to resolve: System.Collections.Specialized.XmlSerializers, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[4] 19:14:10:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 19:14:10:  ShowStatusInfo: 'Ready'
+[4] 19:14:10:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 19:14:10:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 19:14:10:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 19:14:10:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 19:14:10:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 19:14:10:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 19:14:10:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 19:14:10:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 19:14:10:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 19:14:11:  ShowStatusInfo: 'Ready'
+[4] 19:14:11:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh all finished'
+[4] 19:14:11:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 19:14:11:  ShowStatusInfo: 'Ready'
+[4] 19:14:11:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 19:14:11:  ShowStatusInfo: 'Ready'
+[4] 19:14:11:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh all finished'
+[4] 19:14:11:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 19:14:11:  ShowStatusInfo: 'Ready'
+[4] 19:14:11:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 19:14:11:  ShowStatusInfo: 'Ready'
+[4] 19:14:11:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 19:14:11:  ShowStatusInfo: 'Refresh all finished'
+[3] 19:14:11: OpenWorkspace took 00:00:07.1231206 to finish
+[2] 19:14:11: Common repository is not available
+[4] 19:14:16:  ShowStatusInfo: 'Ready'
+[4] 19:14:30:  ShowStatusInfo: '1 object selected'
+[4] 19:14:31:  ShowStatusInfo: 'Ready'
+[4] 19:14:31:  ShowStatusInfo: '1 object selected'
+[4] 19:14:34:  ShowStatusInfo: 'Ready'
+[4] 19:14:34:  ShowStatusInfo: '1 object selected'
+[4] 19:14:34:  ShowStatusInfo: 'Ready'
+[3] 19:14:38: Task 'Link with qTest' started on '/TestCases/ExcelTest/ExcelOperations'
+[4] 19:14:38:  ShowStatusInfo: 'Link with qTest'
+[3] 19:14:38: Could not fetch qTest connection info from server
+[0] 19:14:38: System.Security.Authentication.AuthenticationException: It was not possible to connect to Tricentis Services. Make sure you can reach the Tricentis Services endpoint address and that it is correctly configured in the settings: Tricentis Services.ServerEndpointAddress.
+   at Tricentis.TCCore.Persistency.Services.ManagedAuthentication.ServiceDiscovery.GetServiceEndpointAsync(KnownServiceTypes serviceType, String type)
+   at Tricentis.QTestIntegrationConnector.Providers.ServerSettingsProvider.GetApiEndpointFromNotificationService(IWorkspace workspace)
+[3] 19:15:23: QTestClient Login User with password
+[3] 19:15:25: QTestClient Login User successful
+[3] 19:15:25: QTest: Checking access token from: https://eswaribala70.qtestnet.com:443/oauth/status
+[3] 19:15:25: QTestClient GET request to https://eswaribala70.qtestnet.com/api/v3/projects
+[3] 19:15:25: QTestClient GET request to https://eswaribala70.qtestnet.com/api/v3/projects/127402/modules?expand=descendants
+[3] 19:16:21:  Save started!
+[3] 19:16:21: QTestIntegrationAddIn beginning to Export to QTest
+[3] 19:16:21: LinkTcToQTestService grouping testcases by same endpoint
+[3] 19:16:21: LinkTcToQTestService starting bulk operation for Endpoint: https://eswaribala70.qtestnet.com/api/v3
+[3] 19:16:21: QTestClient Login User with password
+[3] 19:16:22: QTestClient Login User successful
+[3] 19:16:22: QTestClient Sending payload to https://eswaribala70.qtestnet.com/api/v3/projects/127402/tosca/bulk-upload/10479470 body: [{"tosca_guid":"3a16619b-385f-ccea-d328-40a110acaa78","name":"ExcelOperations","description":"","tosca_node_path":"/TestCases/ExcelTest/ExcelOperations","type":"TestCase","tosca_url":"","tosca_state":"PLANNED"}]
+[1] 19:16:22: Forbidden: Reason: 
+ Forbidden
+Content: 
+TOSCA Integration is disabled.
+Request Message: 
+Method: POST, RequestUri: 'https://eswaribala70.qtestnet.com/api/v3/projects/127402/tosca/bulk-upload/10479470', Version: 1.1, Content: System.Net.Http.StringContent, Headers:
+{
+  User-Agent: ToscaCommander/qTestAddIn
+  Tosca-Version: 2024.1.1
+  Authorization: Bearer 1c08f8c5-42c0-4a21-b0bd-8f6eee471b44
+  Accept: application/json
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 211
+}
+Inner Exception: 
+
+[3] 19:16:22: LinkTcToQTestService finished bulk operation for Endpoint: https://eswaribala70.qtestnet.com/api/v3
+[3] 19:16:22: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 19:16:22: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 19:16:22: LinkTcToQTestService grouping testcases by same endpoint
+[3] 19:16:22: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 19:16:22: QTestIntegrationAddIn finished unlinking objects from QTest
+[2] 19:16:22:  ShowWarningMessage: title='Warning' message='Some items could not be linked.'
+[1] 19:16:25: The currently open transaction was opened by:
+Thread Id: 10 Thread Name: 
+   at System.Environment.get_StackTrace()
+   at Tricentis.TCCore.Persistency.Repository.ClusterRepository.ClusterRepository.CreateRepositoryTransaction(Boolean readOnly)
+   at Tricentis.TCCore.Persistency.Repository.ClusterRepository.ClusterRepository.BeginTransaction()
+   at Tricentis.TCCore.Persistency.ObjectHandler.PersistAll(AbstractRepository repository)
+   at Tricentis.TCCore.Persistency.ObjectHandler.PersistAll()
+   at Tricentis.TCCore.Base.Workspace.SaveTo(String filePath, Boolean writeWorkspaceID)
+   at Tricentis.TCCore.Base.Workspace.SaveTo(String filePath)
+   at Tricentis.TCCore.Base.Workspace.Save()
+   at Tricentis.QTestIntegrationAddIn.Tasks.ExportToQTestTask.ShowSingleUserSuccessMessage(List`1 testCases)
+   at Tricentis.QTestIntegrationAddIn.Tasks.ExportToQTestTask.ShowSuccessMessage(List`1 testCases)
+   at Tricentis.QTestIntegrationAddIn.Tasks.ExportToQTestTask.ExecuteInternal(ITaskContext taskContext, List`1 persistableObjects, Func`2 checkOutAllPossibleFunc, IBusinessObjectScope scope)
+   at Tricentis.QTestIntegrationAddIn.Tasks.ExportToQTestTask.RunInMainTask()
+   at Tricentis.TCCore.Persistency.Tasks.ThreadTask.StartAndRunInMainTask(CancellationToken cancellationToken)
+   at Tricentis.TCCore.Persistency.Tasks.ThreadTask.MetaRunInMainTask(CancellationToken cancellationToken)
+   at Tricentis.TCCore.Persistency.Tasks.ThreadTask.<>c__DisplayClass70_0.<MetaRunInMainTaskWithGuiAccess>b__0()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+[1] 19:16:25: The new transaction is being opened by:
+Thread Id: 1 Thread Name: Tosca Commander Main GUI Thread
+   at System.Environment.get_StackTrace()
+   at Tricentis.TCCore.Persistency.Repository.ClusterRepository.ClusterRepository.CreateRepositoryTransaction(Boolean readOnly)
+   at Tricentis.TCCore.Persistency.Repository.ClusterRepository.ClusterRepository.BeginReadOnlyTransaction()
+   at Tricentis.TCCore.Persistency.ObjectHandler.PreloadClusterObjects(IEnumerable`1 objects)
+   at Tricentis.TCCore.GUI.Search.SearchForm.ShowResults(PObjectRefList`1 results)
+   at Tricentis.TCCore.GUI.Search.SearchForm.UpdateColumns()
+   at Tricentis.TCCore.GUI.Search.SearchForm.set_ColumnsChoosingObjectType(String value)
+   at Tricentis.TCCore.GUI.Search.SearchForm.ComboBoxType_SelectedIndexChanged_1(Object sender, EventArgs e)
+   at DevExpress.XtraEditors.Repository.RepositoryItemComboBox.RaiseSelectedIndexChanged(EventArgs e)
+   at DevExpress.XtraEditors.ComboBoxEdit.UpdatePopupEditValueIndex(Int32 prevIndex)
+   at DevExpress.XtraEditors.ComboBoxEdit.set_EditValue(Object value)
+   at DevExpress.XtraEditors.ComboBoxEdit.set_SelectedItem(Object value)
+   at DevExpress.XtraEditors.ComboBoxEdit.set_SelectedIndex(Int32 value)
+   at Tricentis.TCCore.GUI.Search.SearchForm.SetTypeCombobox()
+   at Tricentis.TCCore.GUI.Search.SearchForm..ctor(PersistableObject obj, Boolean showModify, String startupTQLSearchString)
+   at Tricentis.TCCore.GUI.CommanderWindow.OpenDisplayWindow(PersistableObject searchObject, String title, String tqlSearchRequest)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at System.Windows.Forms.Control.InvokeMarshaledCallbackDo(ThreadMethodEntry tme)
+   at System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Windows.Forms.Control.InvokeMarshaledCallbacks()
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at DevExpress.XtraEditors.XtraForm.WndProc(Message& msg)
+   at DevExpress.XtraBars.Ribbon.RibbonForm.WndProc(Message& msg)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(HWND hWnd, MessageId msg, WPARAM wparam, LPARAM lparam)
+   at Windows.Win32.PInvoke.DispatchMessage(MSG* lpMsg)
+   at System.Windows.Forms.Application.ComponentManager.Microsoft.Office.IMsoComponentManager.FPushMessageLoop(UIntPtr dwComponentID, msoloop uReason, Void* pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(msoloop reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(msoloop reason, ApplicationContext context)
+   at Tricentis.TCCore.GUI.Program.RunCommanderWindow(String[] args)
+   at Tricentis.TCCore.GUI.Program.Main(String[] args)
+[0] 19:16:25: Tricentis.TCCore.Persistency.FrameworkException: There is already an open transaction
+   at Tricentis.TCCore.Persistency.Repository.ClusterRepository.ClusterRepository.CreateRepositoryTransaction(Boolean readOnly)
+   at Tricentis.TCCore.Persistency.Repository.ClusterRepository.ClusterRepository.BeginReadOnlyTransaction()
+   at Tricentis.TCCore.Persistency.ObjectHandler.PreloadClusterObjects(IEnumerable`1 objects)
+   at Tricentis.TCCore.GUI.Search.SearchForm.ShowResults(PObjectRefList`1 results)
+   at Tricentis.TCCore.GUI.Search.SearchForm.UpdateColumns()
+   at Tricentis.TCCore.GUI.Search.SearchForm.set_ColumnsChoosingObjectType(String value)
+   at Tricentis.TCCore.GUI.Search.SearchForm.ComboBoxType_SelectedIndexChanged_1(Object sender, EventArgs e)
+   at DevExpress.XtraEditors.Repository.RepositoryItemComboBox.RaiseSelectedIndexChanged(EventArgs e)
+   at DevExpress.XtraEditors.ComboBoxEdit.UpdatePopupEditValueIndex(Int32 prevIndex)
+   at DevExpress.XtraEditors.ComboBoxEdit.set_EditValue(Object value)
+   at DevExpress.XtraEditors.ComboBoxEdit.set_SelectedItem(Object value)
+   at DevExpress.XtraEditors.ComboBoxEdit.set_SelectedIndex(Int32 value)
+   at Tricentis.TCCore.GUI.Search.SearchForm.SetTypeCombobox()
+   at Tricentis.TCCore.GUI.Search.SearchForm..ctor(PersistableObject obj, Boolean showModify, String startupTQLSearchString)
+   at Tricentis.TCCore.GUI.CommanderWindow.OpenDisplayWindow(PersistableObject searchObject, String title, String tqlSearchRequest)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+--- End of stack trace from previous location ---
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at Tricentis.TCCore.GUI.CommanderWindow.TryInvoke(Delegate method, Object[] args)
+   at Tricentis.TCCore.GUI.Tasks.GuiTaskContext.ShowDisplayWindow(PersistableObject searchObject, String title, String tqlSearchRequest)
+   at Tricentis.TCCore.Persistency.Tasks.TaskContext.ShowDisplayList(String title, IEnumerable`1 objects)
+   at Tricentis.QTestIntegrationAddIn.Services.QTestService.ShowErrors()
+[3] 19:16:25:  Save finished!
+[4] 19:16:25:  ShowStatusInfo: 'Ready'
+[4] 19:16:25:  ShowStatusInfo: 'Link with qTest finalizing ...'
+[4] 19:16:25:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 19:16:25:  ShowStatusInfo: 'Ready'
+[4] 19:16:25:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 19:16:25:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 19:16:25:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 19:16:25:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 19:16:25:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 19:16:25:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 19:16:25:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 19:16:25:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 19:16:25:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 19:16:25:  ShowStatusInfo: 'Ready'
+[4] 19:16:25:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 19:16:25:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 19:16:25:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 19:16:25:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 19:16:25:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 19:16:25:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 19:16:25:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 19:16:25:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 19:16:25:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 19:16:25:  ShowStatusInfo: 'Refresh all finished'
+[4] 19:16:25:  ShowStatusInfo: 'Link with qTest finished'
+[3] 19:16:25: Task 'Link with qTest' finished
+[4] 19:16:30:  ShowStatusInfo: 'Ready'
+[4] 19:16:37:  ShowStatusInfo: '1 object selected'
+[4] 19:16:37:  ShowStatusInfo: 'Ready'
+[4] 19:16:38:  ShowStatusInfo: '1 object selected'
+[4] 19:16:38:  ShowStatusInfo: 'Ready'
+[4] 19:16:45:  ShowStatusInfo: '1 object selected'
+[4] 19:16:45:  ShowStatusInfo: 'Ready'
+[3] 19:16:48: Task 'Link with qTest' started on '/TestCases/ExcelTest/ExcelOperations'
+[4] 19:16:48:  ShowStatusInfo: 'Link with qTest'
+[3] 19:16:48: QTestClient Login User with password
+[3] 19:16:49: QTestClient Login User successful
+[3] 19:16:49: QTest: Checking access token from: https://eswaribala70.qtestnet.com:443/oauth/status
+[3] 19:16:49: QTestClient GET request to https://eswaribala70.qtestnet.com/api/v3/projects
+[3] 19:16:50: QTestClient GET request to https://eswaribala70.qtestnet.com/api/v3/projects/127402/modules?expand=descendants
+[3] 19:17:09:  Save started!
+[3] 19:17:09: QTestIntegrationAddIn beginning to Export to QTest
+[3] 19:17:09: LinkTcToQTestService grouping testcases by same endpoint
+[3] 19:17:09: LinkTcToQTestService starting bulk operation for Endpoint: https://eswaribala70.qtestnet.com/api/v3
+[3] 19:17:09: QTestClient Login User with password
+[3] 19:17:11: QTestClient Login User successful
+[3] 19:17:11: QTestClient Sending payload to https://eswaribala70.qtestnet.com/api/v3/projects/127402/tosca/bulk-upload/10479470 body: [{"tosca_guid":"3a16619b-385f-ccea-d328-40a110acaa78","name":"ExcelOperations","description":"","tosca_node_path":"/TestCases/ExcelTest/ExcelOperations","type":"TestCase","tosca_url":"","tosca_state":"PLANNED"}]
+[1] 19:17:11: Forbidden: Reason: 
+ Forbidden
+Content: 
+TOSCA Integration is disabled.
+Request Message: 
+Method: POST, RequestUri: 'https://eswaribala70.qtestnet.com/api/v3/projects/127402/tosca/bulk-upload/10479470', Version: 1.1, Content: System.Net.Http.StringContent, Headers:
+{
+  User-Agent: ToscaCommander/qTestAddIn
+  Tosca-Version: 2024.1.1
+  Authorization: Bearer 1c08f8c5-42c0-4a21-b0bd-8f6eee471b44
+  Accept: application/json
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 211
+}
+Inner Exception: 
+
+[3] 19:17:11: LinkTcToQTestService finished bulk operation for Endpoint: https://eswaribala70.qtestnet.com/api/v3
+[3] 19:17:11: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 19:17:11: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 19:17:11: LinkTcToQTestService grouping testcases by same endpoint
+[3] 19:17:11: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 19:17:11: QTestIntegrationAddIn finished unlinking objects from QTest
+[2] 19:17:11:  ShowWarningMessage: title='Warning' message='Some items could not be linked.'
+[1] 19:17:13: The currently open transaction was opened by:
+Thread Id: 28 Thread Name: 
+   at System.Environment.get_StackTrace()
+   at Tricentis.TCCore.Persistency.Repository.ClusterRepository.ClusterRepository.CreateRepositoryTransaction(Boolean readOnly)
+   at Tricentis.TCCore.Persistency.Repository.ClusterRepository.ClusterRepository.BeginTransaction()
+   at Tricentis.TCCore.Persistency.ObjectHandler.PersistAll(AbstractRepository repository)
+   at Tricentis.TCCore.Persistency.ObjectHandler.PersistAll()
+   at Tricentis.TCCore.Base.Workspace.SaveTo(String filePath, Boolean writeWorkspaceID)
+   at Tricentis.TCCore.Base.Workspace.SaveTo(String filePath)
+   at Tricentis.TCCore.Base.Workspace.Save()
+   at Tricentis.QTestIntegrationAddIn.Tasks.ExportToQTestTask.ShowSingleUserSuccessMessage(List`1 testCases)
+   at Tricentis.QTestIntegrationAddIn.Tasks.ExportToQTestTask.ShowSuccessMessage(List`1 testCases)
+   at Tricentis.QTestIntegrationAddIn.Tasks.ExportToQTestTask.ExecuteInternal(ITaskContext taskContext, List`1 persistableObjects, Func`2 checkOutAllPossibleFunc, IBusinessObjectScope scope)
+   at Tricentis.QTestIntegrationAddIn.Tasks.ExportToQTestTask.RunInMainTask()
+   at Tricentis.TCCore.Persistency.Tasks.ThreadTask.StartAndRunInMainTask(CancellationToken cancellationToken)
+   at Tricentis.TCCore.Persistency.Tasks.ThreadTask.MetaRunInMainTask(CancellationToken cancellationToken)
+   at Tricentis.TCCore.Persistency.Tasks.ThreadTask.<>c__DisplayClass70_0.<MetaRunInMainTaskWithGuiAccess>b__0()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+[1] 19:17:13: The new transaction is being opened by:
+Thread Id: 1 Thread Name: Tosca Commander Main GUI Thread
+   at System.Environment.get_StackTrace()
+   at Tricentis.TCCore.Persistency.Repository.ClusterRepository.ClusterRepository.CreateRepositoryTransaction(Boolean readOnly)
+   at Tricentis.TCCore.Persistency.Repository.ClusterRepository.ClusterRepository.BeginReadOnlyTransaction()
+   at Tricentis.TCCore.Persistency.ObjectHandler.PreloadClusterObjects(IEnumerable`1 objects)
+   at Tricentis.TCCore.GUI.Search.SearchForm.ShowResults(PObjectRefList`1 results)
+   at Tricentis.TCCore.GUI.Search.SearchForm.UpdateColumns()
+   at Tricentis.TCCore.GUI.Search.SearchForm.set_ColumnsChoosingObjectType(String value)
+   at Tricentis.TCCore.GUI.Search.SearchForm.ComboBoxType_SelectedIndexChanged_1(Object sender, EventArgs e)
+   at DevExpress.XtraEditors.Repository.RepositoryItemComboBox.RaiseSelectedIndexChanged(EventArgs e)
+   at DevExpress.XtraEditors.ComboBoxEdit.UpdatePopupEditValueIndex(Int32 prevIndex)
+   at DevExpress.XtraEditors.ComboBoxEdit.set_EditValue(Object value)
+   at DevExpress.XtraEditors.ComboBoxEdit.set_SelectedItem(Object value)
+   at DevExpress.XtraEditors.ComboBoxEdit.set_SelectedIndex(Int32 value)
+   at Tricentis.TCCore.GUI.Search.SearchForm.SetTypeCombobox()
+   at Tricentis.TCCore.GUI.Search.SearchForm..ctor(PersistableObject obj, Boolean showModify, String startupTQLSearchString)
+   at Tricentis.TCCore.GUI.CommanderWindow.OpenDisplayWindow(PersistableObject searchObject, String title, String tqlSearchRequest)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at System.Windows.Forms.Control.InvokeMarshaledCallbackDo(ThreadMethodEntry tme)
+   at System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Windows.Forms.Control.InvokeMarshaledCallbacks()
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at DevExpress.XtraEditors.XtraForm.WndProc(Message& msg)
+   at DevExpress.XtraBars.Ribbon.RibbonForm.WndProc(Message& msg)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(HWND hWnd, MessageId msg, WPARAM wparam, LPARAM lparam)
+   at Windows.Win32.PInvoke.DispatchMessage(MSG* lpMsg)
+   at System.Windows.Forms.Application.ComponentManager.Microsoft.Office.IMsoComponentManager.FPushMessageLoop(UIntPtr dwComponentID, msoloop uReason, Void* pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(msoloop reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(msoloop reason, ApplicationContext context)
+   at Tricentis.TCCore.GUI.Program.RunCommanderWindow(String[] args)
+   at Tricentis.TCCore.GUI.Program.Main(String[] args)
+[0] 19:17:13: Tricentis.TCCore.Persistency.FrameworkException: There is already an open transaction
+   at Tricentis.TCCore.Persistency.Repository.ClusterRepository.ClusterRepository.CreateRepositoryTransaction(Boolean readOnly)
+   at Tricentis.TCCore.Persistency.Repository.ClusterRepository.ClusterRepository.BeginReadOnlyTransaction()
+   at Tricentis.TCCore.Persistency.ObjectHandler.PreloadClusterObjects(IEnumerable`1 objects)
+   at Tricentis.TCCore.GUI.Search.SearchForm.ShowResults(PObjectRefList`1 results)
+   at Tricentis.TCCore.GUI.Search.SearchForm.UpdateColumns()
+   at Tricentis.TCCore.GUI.Search.SearchForm.set_ColumnsChoosingObjectType(String value)
+   at Tricentis.TCCore.GUI.Search.SearchForm.ComboBoxType_SelectedIndexChanged_1(Object sender, EventArgs e)
+   at DevExpress.XtraEditors.Repository.RepositoryItemComboBox.RaiseSelectedIndexChanged(EventArgs e)
+   at DevExpress.XtraEditors.ComboBoxEdit.UpdatePopupEditValueIndex(Int32 prevIndex)
+   at DevExpress.XtraEditors.ComboBoxEdit.set_EditValue(Object value)
+   at DevExpress.XtraEditors.ComboBoxEdit.set_SelectedItem(Object value)
+   at DevExpress.XtraEditors.ComboBoxEdit.set_SelectedIndex(Int32 value)
+   at Tricentis.TCCore.GUI.Search.SearchForm.SetTypeCombobox()
+   at Tricentis.TCCore.GUI.Search.SearchForm..ctor(PersistableObject obj, Boolean showModify, String startupTQLSearchString)
+   at Tricentis.TCCore.GUI.CommanderWindow.OpenDisplayWindow(PersistableObject searchObject, String title, String tqlSearchRequest)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+--- End of stack trace from previous location ---
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at Tricentis.TCCore.GUI.CommanderWindow.TryInvoke(Delegate method, Object[] args)
+   at Tricentis.TCCore.GUI.Tasks.GuiTaskContext.ShowDisplayWindow(PersistableObject searchObject, String title, String tqlSearchRequest)
+   at Tricentis.TCCore.Persistency.Tasks.TaskContext.ShowDisplayList(String title, IEnumerable`1 objects)
+   at Tricentis.QTestIntegrationAddIn.Services.QTestService.ShowErrors()
+[3] 19:17:13:  Save finished!
+[4] 19:17:13:  ShowStatusInfo: 'Ready'
+[4] 19:17:13:  ShowStatusInfo: 'Link with qTest finalizing ...'
+[4] 19:17:13:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 19:17:13:  ShowStatusInfo: 'Ready'
+[4] 19:17:13:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 19:17:13:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 19:17:13:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 19:17:13:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 19:17:13:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 19:17:13:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 19:17:13:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 19:17:13:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 19:17:13:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 19:17:13:  ShowStatusInfo: 'Ready'
+[4] 19:17:13:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 19:17:13:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 19:17:13:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 19:17:13:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 19:17:13:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 19:17:13:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 19:17:13:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 19:17:13:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 19:17:13:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 19:17:13:  ShowStatusInfo: 'Refresh all finished'
+[4] 19:17:13:  ShowStatusInfo: 'Link with qTest finished'
+[3] 19:17:13: Task 'Link with qTest' finished
+[4] 19:17:18:  ShowStatusInfo: 'Ready'
+[4] 19:20:23:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 19:20:23:  ShowStatusInfo: 'Ready'
+[4] 19:20:23:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 19:20:23:  ShowStatusInfo: 'Ready'
+[4] 19:20:23:  ShowStatusInfo: 'Refresh view finished'
+[4] 19:20:25:  ShowStatusInfo: '1 object selected'
+[4] 19:20:25:  ShowStatusInfo: 'Ready'
+[3] 19:20:30: Task 'Connect to Tosca Cloud' started on ''
+[4] 19:20:30:  ShowStatusInfo: 'Connect to Tosca Cloud'
+[4] 19:27:38:  ShowStatusInfo: 'Ready'
+[4] 19:27:38:  ShowStatusInfo: 'Connect to Tosca Cloud finalizing ...'
+[4] 19:27:38:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 19:27:38:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 19:27:38:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 19:27:38:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 19:27:38:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 19:27:38:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 19:27:38:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 19:27:38:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 19:27:38:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 19:27:38:  ShowStatusInfo: 'Ready'
+[4] 19:27:38:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 19:27:38:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 19:27:38:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 19:27:38:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 19:27:38:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 19:27:38:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 19:27:38:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 19:27:38:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 19:27:38:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 19:27:38:  ShowStatusInfo: 'Ready'
+[4] 19:27:38:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 19:27:38:  ShowStatusInfo: 'Refresh all finished'
+[4] 19:27:38:  ShowStatusInfo: 'Connect to Tosca Cloud canceled'
+[3] 19:27:38: Task 'Connect to Tosca Cloud' finished
+[4] 19:27:39:  ShowStatusInfo: '1 object selected'
+[4] 19:27:39:  ShowStatusInfo: 'Ready'
+[4] 19:27:47:  ShowStatusInfo: '1 object selected'
+[4] 19:27:47:  ShowStatusInfo: 'Ready'
+[3] 19:27:52: Task 'Connect to Tosca Cloud' started on ''
+[4] 19:27:52:  ShowStatusInfo: 'Connect to Tosca Cloud'
+[3] 19:28:24: Sending Request To Cloud: Method: GET, RequestUri: 'https://eswari1970.my.tricentis.com/_core/api/organization/v1/spaces', Version: 1.1, Content: <null>, Headers:
+{
+  Authorization: Bearer eyJraWQiOiJ5aVZoZ3RUVjFfNk82TGdNMHF2eGo4ZjdKbFBFVlpaY1FJZG5RaWdwclprIiwiYWxnIjoiUlMyNTYifQ.eyJ2ZXIiOjEsImp0aSI6IkFULkxLT3J6QUtzVTMybWpBbDRVd3FuSV8takhlTmMtWE42eHFkVEVPVTRWc1UiLCJpc3MiOiJodHRwczovL2Vzd2FyaTE5NzAub2t0YS5jb20vb2F1dGgyL2RlZmF1bHQiLCJhdWQiOiJhcGk6Ly9kZWZhdWx0IiwiaWF0IjoxNzMyNDU2NzAzLCJleHAiOjE3MzI0NjAzMDMsImNpZCI6IlRvc2NhX0NvbW1hbmRlcl9QS0NFIiwidWlkIjoiMDB1aXdrNHBxbjZvTUNQdzQ0MTciLCJzY3AiOlsib3BlbmlkIiwidHRhIiwicHJvZmlsZSJdLCJhdXRoX3RpbWUiOjE3MzI0NTY2OTgsInN1YiI6InRvc2NhMUBycHNzb2Z0LmNvbSIsImdyb3VwcyI6WyJFdmVyeW9uZSIsIlRyaWNlbnRpcyBUb3NjYSB1c2VycyJdfQ.B9ZU6uQSIOcegEYHCvwYDPfThIbfcmwR-2wVHqtTsnyXw8JmF3n0jbd6_v_RHZ6pH2lyRrNfdZokUxHzHavW0NZQ0vGN6RnQeZjqoZKuCGX6T1PYbzWtQe520VoZ_sDRi0Ps16VRs7zcoQJzxtt978t8SWSsZSX4yG5TYzQ5P6vAvsrYly9D3tP8ynMLhIcm-X1B_zA4cAthmd4BhaecVlCe8XgufPpeT3cM3SlQIetrOowC6cETsSII7nLx53dVfQRh5K-O3mafml-SyTNLuG1X6fmfhSbvvF90ZKIWz7M0V4sTNuqp25i_o0cfFwPhdVeFQGheNN6hTlcjDFdBzw
+}
+[4] 19:28:27:  ShowStatusInfo: 'Ready'
+[4] 19:28:27:  ShowStatusInfo: 'Connect to Tosca Cloud finalizing ...'
+[4] 19:28:27:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 19:28:27:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 19:28:27:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 19:28:27:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 19:28:27:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 19:28:27:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 19:28:27:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 19:28:27:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 19:28:27:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 19:28:27:  ShowStatusInfo: 'Ready'
+[4] 19:28:27:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 19:28:27:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 19:28:27:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 19:28:27:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 19:28:27:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 19:28:27:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 19:28:27:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 19:28:27:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 19:28:27:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 19:28:27:  ShowStatusInfo: 'Ready'
+[4] 19:28:27:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 19:28:27:  ShowStatusInfo: 'Refresh all finished'
+[4] 19:28:27:  ShowStatusInfo: 'Connect to Tosca Cloud finished'
+[3] 19:28:27: Task 'Connect to Tosca Cloud' finished
+[4] 19:28:32:  ShowStatusInfo: 'Ready'
+[4] 20:49:29:  ShowStatusInfo: '1 object selected'
+[4] 20:49:29:  ShowStatusInfo: 'Ready'
+[3] 20:49:35: Task 'Start Remote Control' started on ''
+[4] 20:49:35:  ShowStatusInfo: 'Start Remote Control'
+[4] 20:49:35: Current = 'ToscaDemo3'
+[4] 20:49:35:  ShowStatusInfo: 'Start Remote Control finalizing ...'
+[4] 20:49:35:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 20:49:35:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 20:49:35:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 20:49:35:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 20:49:35:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 20:49:35:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 20:49:35:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 20:49:35:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 20:49:35:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 20:49:35:  ShowStatusInfo: 'Ready'
+[4] 20:49:35:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 20:49:35:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 20:49:35:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 20:49:35:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 20:49:35:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 20:49:35:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 20:49:35:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 20:49:35:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 20:49:35:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 20:49:35:  ShowStatusInfo: 'Ready'
+[4] 20:49:35:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 20:49:35:  ShowStatusInfo: 'Refresh all finished'
+[4] 20:49:35:  ShowStatusInfo: 'Start Remote Control finished'
+[3] 20:49:35: Task 'Start Remote Control' finished
+[3] 20:52:34: Closing Workspace!
+[3] 20:52:34: Log closed!

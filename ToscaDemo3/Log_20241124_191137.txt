@@ -1,0 +1,122 @@
+[3] 19:11:37: Log started for 'H:\toscaprojects\ToscaDemo3\ToscaDemo3.tws'
+[3] 19:11:37: Log level: 4
+[3] 19:11:37: Release: 24.1.1.5090
+[3] 19:11:37: Execution Approval is disabled.
+[3] 19:11:37: No service discovery configured.
+[3] 19:11:37:  + AccessibilityTestingUI: AccessibilityTestingUI 24.1.1.5090 (5090)
+[3] 19:11:37:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 24.1.1.5090 (5090)
+[3] 19:11:37:  + DistributedExecutionAddIn: DistributedExecutionAddIn 24.1.1.5090 (5090)
+[3] 19:11:37:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 24.1.1.5090 (5090)
+[3] 19:11:37:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 24.1.1.5090 (5090)
+[3] 19:11:37:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 24.1.1.5090 (5090)
+[3] 19:11:37:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 24.1.1.5090 (5090)
+[3] 19:11:37:  + IntegrationManagementAddIn: IntegrationManagementAddIn 24.1.1.5090 (5090)
+    + : SAPSolutionManagerIntegration 24.1.1.5090 (5090)
+[3] 19:11:37: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 19:11:38: Searcher found 0 results in 153.769 ms
+[3] 19:11:38:  + OptIntAddIn: OptIntAddIn 24.1.1.5090 (5090)
+[3] 19:11:38:  + QTestIntegrationAddIn: QTestIntegrationAddIn 24.1.1.5090 (5090)
+[3] 19:11:38:  + RemoteControl: RemoteControlAddIn 24.1.1.5090 (5090)
+[3] 19:11:38:  + Reporting: ReportingAddIn 24.1.1.5090 (5090)
+[3] 19:11:38:  + ReportingUI: ReportingUIAddIn 24.1.1.5090 (5090)
+[3] 19:11:38:  + RequirementsManagementAddIn: RequirementsManagement 24.1.1.5090 (5090)
+[3] 19:11:38:  + RequirementsManagementUIAddIn: RequirementsManagementUI 24.1.1.5090 (5090)
+[3] 19:11:38:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 24.1.1.5090 (5090)
+[3] 19:11:38:  + TestCaseDesign: TestCaseDesign 24.1.1.5090 (5090)
+[3] 19:11:38: Opened from Workspace File 'H:\toscaprojects\ToscaDemo3\ToscaDemo3.tws'
+[2] 19:11:38: CommanderAssemblyResolver: Unable to resolve: System.Collections.Specialized.XmlSerializers, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[4] 19:11:43:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 19:11:43:  ShowStatusInfo: 'Ready'
+[4] 19:11:43:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 19:11:43:  ShowStatusInfo: 'Ready'
+[4] 19:11:43:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh all finished'
+[4] 19:11:43:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 19:11:43:  ShowStatusInfo: 'Ready'
+[4] 19:11:43:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 19:11:43:  ShowStatusInfo: 'Ready'
+[4] 19:11:43:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh all finished'
+[4] 19:11:43:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 19:11:43:  ShowStatusInfo: 'Ready'
+[4] 19:11:43:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 19:11:43:  ShowStatusInfo: 'Ready'
+[4] 19:11:43:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 19:11:43:  ShowStatusInfo: 'Refresh all finished'
+[3] 19:11:43: OpenWorkspace took 00:00:09.3293382 to finish
+[2] 19:11:43: Common repository is not available
+[4] 19:11:48:  ShowStatusInfo: 'Ready'
+[4] 19:13:18:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 19:13:18:  ShowStatusInfo: 'Ready'
+[4] 19:13:18:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 19:13:18:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 19:13:18:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 19:13:18:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 19:13:18:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 19:13:18:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 19:13:18:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 19:13:18:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 19:13:18:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 19:13:18:  ShowStatusInfo: 'Ready'
+[4] 19:13:18:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 19:13:18:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 19:13:18:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 19:13:18:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 19:13:18:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 19:13:18:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 19:13:18:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 19:13:18:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 19:13:18:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 19:13:18:  ShowStatusInfo: 'Refresh all finished'
+[4] 19:13:23:  ShowStatusInfo: 'Ready'
+[3] 19:13:30: Closing Workspace!
+[3] 19:13:30: Log closed!

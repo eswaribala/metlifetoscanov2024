@@ -1,0 +1,201 @@
+[3] 12:25:59: Log started for 'H:\toscaprojects\ToscaDemo3\ToscaDemo3.tws'
+[3] 12:25:59: Log level: 4
+[3] 12:25:59: Release: 24.1.1.5090
+[3] 12:25:59: Execution Approval is disabled.
+[3] 12:25:59: No service discovery configured.
+[3] 12:25:59:  + AccessibilityTestingUI: AccessibilityTestingUI 24.1.1.5090 (5090)
+[3] 12:25:59:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 24.1.1.5090 (5090)
+[3] 12:25:59:  + DistributedExecutionAddIn: DistributedExecutionAddIn 24.1.1.5090 (5090)
+[3] 12:25:59:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 24.1.1.5090 (5090)
+[3] 12:25:59:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 24.1.1.5090 (5090)
+[3] 12:25:59:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 24.1.1.5090 (5090)
+[3] 12:25:59:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 24.1.1.5090 (5090)
+[3] 12:25:59:  + IntegrationManagementAddIn: IntegrationManagementAddIn 24.1.1.5090 (5090)
+    + : SAPSolutionManagerIntegration 24.1.1.5090 (5090)
+[3] 12:25:59: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 12:25:59: Searcher found 0 results in 6.8423 ms
+[3] 12:25:59:  + OptIntAddIn: OptIntAddIn 24.1.1.5090 (5090)
+[3] 12:25:59:  + QTestIntegrationAddIn: QTestIntegrationAddIn 24.1.1.5090 (5090)
+[3] 12:25:59:  + RemoteControl: RemoteControlAddIn 24.1.1.5090 (5090)
+[3] 12:25:59:  + Reporting: ReportingAddIn 24.1.1.5090 (5090)
+[3] 12:25:59:  + ReportingUI: ReportingUIAddIn 24.1.1.5090 (5090)
+[3] 12:25:59:  + RequirementsManagementAddIn: RequirementsManagement 24.1.1.5090 (5090)
+[3] 12:25:59:  + RequirementsManagementUIAddIn: RequirementsManagementUI 24.1.1.5090 (5090)
+[3] 12:25:59:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 24.1.1.5090 (5090)
+[3] 12:25:59:  + TestCaseDesign: TestCaseDesign 24.1.1.5090 (5090)
+[3] 12:25:59: Opened from Workspace File 'H:\toscaprojects\ToscaDemo3\ToscaDemo3.tws'
+[4] 12:26:03:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 12:26:03:  ShowStatusInfo: 'Ready'
+[4] 12:26:03:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 12:26:03:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 12:26:03:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 12:26:03:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 12:26:03:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 12:26:03:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 12:26:03:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 12:26:03:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 12:26:03:  ShowStatusInfo: 'Ready'
+[4] 12:26:03:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 12:26:03:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 12:26:03:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 12:26:03:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 12:26:03:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 12:26:03:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 12:26:03:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 12:26:03:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:26:03:  ShowStatusInfo: 'Refresh all finished'
+[4] 12:26:03:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:26:03:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 12:26:03:  ShowStatusInfo: 'Ready'
+[4] 12:26:03:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 12:26:03:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 12:26:03:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 12:26:03:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 12:26:03:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 12:26:03:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 12:26:03:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 12:26:03:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 12:26:03:  ShowStatusInfo: 'Ready'
+[4] 12:26:03:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 12:26:03:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 12:26:03:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 12:26:03:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 12:26:03:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 12:26:03:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 12:26:03:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 12:26:03:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:26:03:  ShowStatusInfo: 'Refresh all finished'
+[3] 12:26:03: OpenWorkspace took 00:00:06.1119161 to finish
+[2] 12:26:03: Common repository is not available
+[4] 12:26:08:  ShowStatusInfo: 'Ready'
+[4] 12:26:33:  ShowStatusInfo: '1 object selected'
+[4] 12:26:34:  ShowStatusInfo: 'Ready'
+[4] 12:26:35:  ShowStatusInfo: '1 object selected'
+[4] 12:26:35:  ShowStatusInfo: 'Ready'
+[4] 12:26:35:  ShowStatusInfo: '1 object selected'
+[4] 12:26:36:  ShowStatusInfo: 'Ready'
+[4] 12:26:36:  ShowStatusInfo: '1 object selected'
+[4] 12:26:37:  ShowStatusInfo: 'Ready'
+[4] 12:26:37:  ShowStatusInfo: '1 object selected'
+[4] 12:26:39:  ShowStatusInfo: 'Ready'
+[4] 12:26:39:  ShowStatusInfo: '1 object selected'
+[4] 12:26:39:  ShowStatusInfo: 'Ready'
+[4] 12:26:40:  ShowStatusInfo: '1 object selected'
+[4] 12:26:40:  ShowStatusInfo: 'Ready'
+[4] 12:26:40:  ShowStatusInfo: '1 object selected'
+[4] 12:26:41:  ShowStatusInfo: 'Ready'
+[4] 12:26:41:  ShowStatusInfo: '1 object selected'
+[4] 12:26:42:  ShowStatusInfo: 'Ready'
+[4] 12:26:42:  ShowStatusInfo: '1 object selected'
+[4] 12:26:47:  ShowStatusInfo: 'Ready'
+[4] 12:29:12:  ShowStatusInfo: '1 object selected'
+[4] 12:29:14:  ShowStatusInfo: 'Ready'
+[4] 12:29:16:  ShowStatusInfo: '1 object selected'
+[4] 12:29:16:  ShowStatusInfo: 'Ready'
+[3] 12:29:17: Task 'Run in ScratchBook' started on '/TestCases/ExcelTest/ExcelOperations'
+[4] 12:29:17:  ShowStatusInfo: 'Run in ScratchBook'
+[4] 12:29:17:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 12:29:17:  ShowStatusInfo: 'Ready'
+[4] 12:29:17:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 12:29:17:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 12:29:17:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 12:29:17:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 12:29:17:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 12:29:17:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 12:29:17:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 12:29:17:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 12:29:17:  ShowStatusInfo: 'Ready'
+[4] 12:29:17:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 12:29:17:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 12:29:17:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 12:29:17:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 12:29:17:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 12:29:17:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 12:29:17:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 12:29:17:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:29:17:  ShowStatusInfo: 'Refresh all finished'
+[4] 12:29:17:  ShowStatusInfo: 'Run started with TBoxRunTaskExecutor'
+[4] 12:29:17:  ShowStatusInfo: 'Verifying required licenses ...'
+[4] 12:29:18:  ShowStatusInfo: 'Execution Running ...'
+[4] 12:29:24:  ShowStatusInfo: 'Processing execution results ...'
+[3] 12:29:24: AgentResults count: 1
+[3] 12:29:24: executionResponses count: 1
+[4] 12:29:24:  ShowStatusInfo: 'Run finalizing ...'
+[4] 12:29:24:  ShowStatusInfo: 'Run finished'
+[3] 12:29:24: Task 'Run' finished
+[4] 12:29:24:  ShowStatusInfo: 'Ready'
+[4] 12:29:24:  ShowStatusInfo: 'Run in ScratchBook finalizing ...'
+[4] 12:29:24:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 12:29:24:  ShowStatusInfo: 'Ready'
+[4] 12:29:24:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 12:29:24:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 12:29:24:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 12:29:24:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 12:29:24:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 12:29:24:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 12:29:24:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 12:29:24:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 12:29:24:  ShowStatusInfo: 'Ready'
+[4] 12:29:24:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 12:29:24:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 12:29:24:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 12:29:24:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 12:29:24:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 12:29:24:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 12:29:24:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 12:29:24:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:29:24:  ShowStatusInfo: 'Refresh all finished'
+[4] 12:29:24:  ShowStatusInfo: 'Run in ScratchBook finished'
+[3] 12:29:24: Task 'Run in ScratchBook' finished
+[4] 12:29:24:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 12:29:24:  ShowStatusInfo: 'Ready'
+[4] 12:29:24:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 12:29:24:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 12:29:24:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 12:29:24:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 12:29:24:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 12:29:24:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 12:29:24:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 12:29:24:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 12:29:24:  ShowStatusInfo: 'Ready'
+[4] 12:29:24:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 12:29:24:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 12:29:24:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 12:29:24:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 12:29:24:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 12:29:24:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 12:29:24:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 12:29:24:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:29:24:  ShowStatusInfo: 'Refresh all finished'
+[4] 12:29:25:  ShowStatusInfo: 'Ready'
+[2] 12:30:08: CommanderAssemblyResolver: Unable to resolve: System.Windows.Forms.resources, Version=8.0.0.0, Culture=en-IN, PublicKeyToken=b77a5c561934e089
+[2] 12:30:08: CommanderAssemblyResolver: Unable to resolve: System.Windows.Forms.resources, Version=8.0.0.0, Culture=en, PublicKeyToken=b77a5c561934e089
+[4] 12:30:21:  ShowStatusInfo: '1 object selected'
+[4] 12:30:26:  ShowStatusInfo: 'Ready'
+[3] 12:39:56: Task 'API Manage' started on '/TestCases/ExcelTest/ExcelOperations'
+[4] 12:39:56:  ShowStatusInfo: 'API Manage'
+[2] 12:39:57: CommanderAssemblyResolver: Unable to resolve: DevExpress.Xpf.Themes.Office2019Colorful.v23.2.Aero2, Version=23.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+[2] 12:39:57: CommanderAssemblyResolver: Unable to resolve: DevExpress.Xpf.Themes.Office2019Colorful.v23.2.Aero2, Version=23.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+[4] 12:39:58:  ShowStatusInfo: 'Ready'
+[4] 12:39:58:  ShowStatusInfo: 'Manage finished'
+[3] 12:39:58: Task 'API Manage' finished
+[4] 12:40:03:  ShowStatusInfo: 'Ready'
+[4] 12:41:04:  ShowStatusInfo: '1 object selected'
+[4] 12:41:04:  ShowStatusInfo: 'Ready'
+[4] 12:41:07:  ShowStatusInfo: '1 object selected'
+[4] 12:41:07:  ShowStatusInfo: 'Ready'
+[4] 12:41:23:  ShowStatusInfo: '1 object selected'
+[4] 12:41:23:  ShowStatusInfo: 'Ready'
+[4] 14:22:39:  ShowStatusInfo: 'Saving ...'
+[3] 14:22:39:  Save started!
+[3] 14:22:39: QTestIntegrationAddIn beginning to Export to QTest
+[3] 14:22:39: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 14:22:39: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 14:22:39: LinkTcToQTestService grouping testcases by same endpoint
+[3] 14:22:39: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 14:22:39: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 14:22:39:  Save finished!
+[4] 14:22:39:  ShowStatusInfo: 'Saved successfully'
+[4] 14:22:40:  ShowStatusInfo: 'Ready'
+[3] 14:22:41: Closing Workspace!
+[3] 14:22:41: Log closed!

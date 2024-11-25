@@ -1,0 +1,103 @@
+[3] 22:11:30: Log started for 'H:\toscaprojects\saucelabdemo\saucelabdemo.tws'
+[3] 22:11:30: Log level: 4
+[3] 22:11:30: Release: 24.1.1.5090
+[3] 22:11:31: Execution Approval is disabled.
+[3] 22:11:31: No service discovery configured.
+[3] 22:11:31:  + AccessibilityTestingUI: AccessibilityTestingUI 24.1.1.5090 (5090)
+[3] 22:11:31:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 24.1.1.5090 (5090)
+[3] 22:11:31:  + DistributedExecutionAddIn: DistributedExecutionAddIn 24.1.1.5090 (5090)
+[3] 22:11:31:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 24.1.1.5090 (5090)
+[3] 22:11:31:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 24.1.1.5090 (5090)
+[3] 22:11:31:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 24.1.1.5090 (5090)
+[3] 22:11:31:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 24.1.1.5090 (5090)
+[3] 22:11:31:  + IntegrationManagementAddIn: IntegrationManagementAddIn 24.1.1.5090 (5090)
+    + : SAPSolutionManagerIntegration 24.1.1.5090 (5090)
+[3] 22:11:31: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 22:11:31: Searcher found 0 results in 128.5174 ms
+[3] 22:11:31:  + OptIntAddIn: OptIntAddIn 24.1.1.5090 (5090)
+[3] 22:11:31:  + QTestIntegrationAddIn: QTestIntegrationAddIn 24.1.1.5090 (5090)
+[3] 22:11:31:  + RemoteControl: RemoteControlAddIn 24.1.1.5090 (5090)
+[3] 22:11:31:  + Reporting: ReportingAddIn 24.1.1.5090 (5090)
+[3] 22:11:31:  + ReportingUI: ReportingUIAddIn 24.1.1.5090 (5090)
+[3] 22:11:31:  + RequirementsManagementAddIn: RequirementsManagement 24.1.1.5090 (5090)
+[3] 22:11:31:  + RequirementsManagementUIAddIn: RequirementsManagementUI 24.1.1.5090 (5090)
+[3] 22:11:31:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 24.1.1.5090 (5090)
+[3] 22:11:31:  + TestCaseDesign: TestCaseDesign 24.1.1.5090 (5090)
+[3] 22:11:31: Opened from Workspace File 'H:\toscaprojects\saucelabdemo\saucelabdemo.tws'
+[4] 22:11:36:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 22:11:36:  ShowStatusInfo: 'Ready'
+[4] 22:11:36:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh navigation view 'saucelabdemo''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 22:11:36:  ShowStatusInfo: 'Ready'
+[4] 22:11:36:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh detail view 'saucelabdemo''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh all finished'
+[4] 22:11:36:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 22:11:36:  ShowStatusInfo: 'Ready'
+[4] 22:11:36:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh navigation view 'saucelabdemo''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 22:11:36:  ShowStatusInfo: 'Ready'
+[4] 22:11:36:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh detail view 'saucelabdemo''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh all finished'
+[4] 22:11:36:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 22:11:36:  ShowStatusInfo: 'Ready'
+[4] 22:11:36:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh navigation view 'saucelabdemo''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 22:11:36:  ShowStatusInfo: 'Ready'
+[4] 22:11:36:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh detail view 'saucelabdemo''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 22:11:36:  ShowStatusInfo: 'Refresh all finished'
+[3] 22:11:36: OpenWorkspace took 00:00:07.9278614 to finish
+[2] 22:11:36: Common repository is not available
+[4] 22:11:41:  ShowStatusInfo: 'Ready'
+[4] 22:12:55:  ShowStatusInfo: 'Saving ...'
+[3] 22:12:55:  Save started!
+[3] 22:12:55: QTestIntegrationAddIn beginning to Export to QTest
+[3] 22:12:55: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 22:12:55: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 22:12:55: LinkTcToQTestService grouping testcases by same endpoint
+[3] 22:12:55: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 22:12:55: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 22:12:56:  Save finished!
+[4] 22:12:56:  ShowStatusInfo: 'Saved successfully'
+[4] 22:12:56:  ShowStatusInfo: 'Ready'
+[3] 22:12:57: Closing Workspace!
+[3] 22:12:57: Log closed!

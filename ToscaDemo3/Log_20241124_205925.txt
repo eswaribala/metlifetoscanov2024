@@ -1,0 +1,639 @@
+[3] 20:59:25: Log started for 'H:\toscaprojects\ToscaDemo3\ToscaDemo3.tws'
+[3] 20:59:25: Log level: 4
+[3] 20:59:25: Release: 24.1.1.5090
+[3] 20:59:26: Execution Approval is disabled.
+[3] 20:59:26: No service discovery configured.
+[3] 20:59:26:  + AccessibilityTestingUI: AccessibilityTestingUI 24.1.1.5090 (5090)
+[3] 20:59:26:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 24.1.1.5090 (5090)
+[3] 20:59:26:  + DistributedExecutionAddIn: DistributedExecutionAddIn 24.1.1.5090 (5090)
+[3] 20:59:26:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 24.1.1.5090 (5090)
+[3] 20:59:26:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 24.1.1.5090 (5090)
+[3] 20:59:26:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 24.1.1.5090 (5090)
+[3] 20:59:26:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 24.1.1.5090 (5090)
+[3] 20:59:26:  + IntegrationManagementAddIn: IntegrationManagementAddIn 24.1.1.5090 (5090)
+    + : SAPSolutionManagerIntegration 24.1.1.5090 (5090)
+[3] 20:59:26: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 20:59:26: Searcher found 0 results in 32.1848 ms
+[3] 20:59:26:  + OptIntAddIn: OptIntAddIn 24.1.1.5090 (5090)
+[3] 20:59:26:  + QTestIntegrationAddIn: QTestIntegrationAddIn 24.1.1.5090 (5090)
+[3] 20:59:26:  + RemoteControl: RemoteControlAddIn 24.1.1.5090 (5090)
+[3] 20:59:26:  + Reporting: ReportingAddIn 24.1.1.5090 (5090)
+[3] 20:59:26:  + ReportingUI: ReportingUIAddIn 24.1.1.5090 (5090)
+[3] 20:59:26:  + RequirementsManagementAddIn: RequirementsManagement 24.1.1.5090 (5090)
+[3] 20:59:26:  + RequirementsManagementUIAddIn: RequirementsManagementUI 24.1.1.5090 (5090)
+[3] 20:59:26:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 24.1.1.5090 (5090)
+[3] 20:59:26:  + TestCaseDesign: TestCaseDesign 24.1.1.5090 (5090)
+[3] 20:59:26: Opened from Workspace File 'H:\toscaprojects\ToscaDemo3\ToscaDemo3.tws'
+[2] 20:59:26: CommanderAssemblyResolver: Unable to resolve: System.Collections.Specialized.XmlSerializers, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[4] 20:59:31:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 20:59:31:  ShowStatusInfo: 'Ready'
+[4] 20:59:31:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 20:59:31:  ShowStatusInfo: 'Ready'
+[4] 20:59:31:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh all finished'
+[4] 20:59:31:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 20:59:31:  ShowStatusInfo: 'Ready'
+[4] 20:59:31:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 20:59:31:  ShowStatusInfo: 'Ready'
+[4] 20:59:31:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh all finished'
+[4] 20:59:31:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 20:59:31:  ShowStatusInfo: 'Ready'
+[4] 20:59:31:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 20:59:31:  ShowStatusInfo: 'Ready'
+[4] 20:59:31:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 20:59:31:  ShowStatusInfo: 'Refresh all finished'
+[3] 20:59:31: OpenWorkspace took 00:00:07.5136433 to finish
+[2] 20:59:31: Common repository is not available
+[4] 20:59:36:  ShowStatusInfo: 'Ready'
+[4] 21:18:49:  ShowStatusInfo: '1 object selected'
+[4] 21:18:51:  ShowStatusInfo: 'Ready'
+[4] 21:18:51:  ShowStatusInfo: '1 object selected'
+[4] 21:18:53:  ShowStatusInfo: 'Ready'
+[4] 21:21:19:  ShowStatusInfo: '1 object selected'
+[4] 21:21:19:  ShowStatusInfo: 'Ready'
+[3] 21:21:26: Task 'Export Subset' started on '/Modules'
+[4] 21:21:26:  ShowStatusInfo: 'Export Subset'
+[4] 21:21:28:  ShowStatusInfo: 'Ready'
+[4] 21:21:28:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 21:21:28:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 21:21:28:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 21:21:28:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 21:21:28:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 21:21:28:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 21:21:28:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 21:21:28:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 21:21:28:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 21:21:28:  ShowStatusInfo: 'Ready'
+[4] 21:21:28:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 21:21:28:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 21:21:28:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 21:21:28:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 21:21:28:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 21:21:28:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 21:21:28:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 21:21:28:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 21:21:28:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 21:21:28:  ShowStatusInfo: 'Ready'
+[4] 21:21:28:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 21:21:29:  ShowStatusInfo: 'Refresh all finished'
+[4] 21:21:29:  ShowStatusInfo: 'Ready'
+[4] 21:21:29:  ShowStatusInfo: 'Export Subset '
+[3] 21:21:29: Task 'Export Subset' finished
+[4] 21:21:29:  ShowStatusInfo: 'Ready'
+[4] 21:21:30:  ShowStatusInfo: '1 object selected'
+[4] 21:21:30:  ShowStatusInfo: 'Ready'
+[4] 21:21:33:  ShowStatusInfo: '1 object selected'
+[4] 21:21:33:  ShowStatusInfo: 'Ready'
+[4] 21:21:39:  ShowStatusInfo: '1 object selected'
+[4] 21:21:39:  ShowStatusInfo: 'Ready'
+[3] 21:21:40: Task 'Link with qTest' started on '/TestCases/LoginLibrary'
+[4] 21:21:40:  ShowStatusInfo: 'Link with qTest'
+[3] 21:21:41: QTestClient Login User with password
+[3] 21:21:42: QTestClient Login User successful
+[3] 21:21:42: QTest: Checking access token from: https://eswaribala70.qtestnet.com:443/oauth/status
+[3] 21:21:42: QTestClient GET request to https://eswaribala70.qtestnet.com/api/v3/projects
+[3] 21:21:43: QTestClient GET request to https://eswaribala70.qtestnet.com/api/v3/projects/127402/modules?expand=descendants
+[3] 21:21:53: QTestClient Login User with password
+[3] 21:21:53: QTestClient Login User successful
+[3] 21:21:53: QTest: Checking access token from: https://eswaribala70.qtestnet.com:443/oauth/status
+[3] 21:21:53: QTestClient GET request to https://eswaribala70.qtestnet.com/api/v3/projects
+[3] 21:21:54: QTestClient GET request to https://eswaribala70.qtestnet.com/api/v3/projects/127402/modules?expand=descendants
+[3] 21:22:02:  Save started!
+[3] 21:22:02: QTestIntegrationAddIn beginning to Export to QTest
+[3] 21:22:02: LinkTcToQTestService grouping testcases by same endpoint
+[3] 21:22:02: LinkTcToQTestService starting bulk operation for Endpoint: https://eswaribala70.qtestnet.com/api/v3
+[3] 21:22:02: QTestClient Login User with password
+[3] 21:22:03: QTestClient Login User successful
+[3] 21:22:03: QTestClient Sending payload to https://eswaribala70.qtestnet.com/api/v3/projects/127402/tosca/bulk-upload/10479470 body: [{"tosca_guid":"3a1663c0-58c4-a08c-033a-0e977913c483","name":"TC2","description":"","tosca_node_path":"/TestCases/LoginLibrary/TC2","type":"TestCase","tosca_url":"","tosca_state":"PLANNED"},{"tosca_guid":"3a166405-1ab8-b370-8e0b-d388d8870728","name":"User1","description":"","tosca_node_path":"/TestCases/LoginLibrary/TemplateInstance of TC1/User1","type":"TestCase","tosca_url":"","tosca_state":"PLANNED"}]
+[1] 21:22:03: Forbidden: Reason: 
+ Forbidden
+Content: 
+TOSCA Integration is disabled.
+Request Message: 
+Method: POST, RequestUri: 'https://eswaribala70.qtestnet.com/api/v3/projects/127402/tosca/bulk-upload/10479470', Version: 1.1, Content: System.Net.Http.StringContent, Headers:
+{
+  User-Agent: ToscaCommander/qTestAddIn
+  Tosca-Version: 2024.1.1
+  Authorization: Bearer 1c08f8c5-42c0-4a21-b0bd-8f6eee471b44
+  Accept: application/json
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 407
+}
+Inner Exception: 
+
+[3] 21:22:03: LinkTcToQTestService finished bulk operation for Endpoint: https://eswaribala70.qtestnet.com/api/v3
+[3] 21:22:03: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 21:22:03: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 21:22:03: LinkTcToQTestService grouping testcases by same endpoint
+[3] 21:22:03: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 21:22:03: QTestIntegrationAddIn finished unlinking objects from QTest
+[2] 21:22:03:  ShowWarningMessage: title='Warning' message='Some items could not be linked.'
+[1] 21:22:10: The currently open transaction was opened by:
+Thread Id: 27 Thread Name: 
+   at System.Environment.get_StackTrace()
+   at Tricentis.TCCore.Persistency.Repository.ClusterRepository.ClusterRepository.CreateRepositoryTransaction(Boolean readOnly)
+   at Tricentis.TCCore.Persistency.Repository.ClusterRepository.ClusterRepository.BeginTransaction()
+   at Tricentis.TCCore.Persistency.ObjectHandler.PersistAll(AbstractRepository repository)
+   at Tricentis.TCCore.Persistency.ObjectHandler.PersistAll()
+   at Tricentis.TCCore.Base.Workspace.SaveTo(String filePath, Boolean writeWorkspaceID)
+   at Tricentis.TCCore.Base.Workspace.SaveTo(String filePath)
+   at Tricentis.TCCore.Base.Workspace.Save()
+   at Tricentis.QTestIntegrationAddIn.Tasks.ExportToQTestTask.ShowSingleUserSuccessMessage(List`1 testCases)
+   at Tricentis.QTestIntegrationAddIn.Tasks.ExportToQTestTask.ShowSuccessMessage(List`1 testCases)
+   at Tricentis.QTestIntegrationAddIn.Tasks.ExportToQTestTask.ExecuteInternal(ITaskContext taskContext, List`1 persistableObjects, Func`2 checkOutAllPossibleFunc, IBusinessObjectScope scope)
+   at Tricentis.QTestIntegrationAddIn.Tasks.ExportToQTestTask.RunInMainTask()
+   at Tricentis.TCCore.Persistency.Tasks.ThreadTask.StartAndRunInMainTask(CancellationToken cancellationToken)
+   at Tricentis.TCCore.Persistency.Tasks.ThreadTask.MetaRunInMainTask(CancellationToken cancellationToken)
+   at Tricentis.TCCore.Persistency.Tasks.ThreadTask.<>c__DisplayClass70_0.<MetaRunInMainTaskWithGuiAccess>b__0()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+[1] 21:22:10: The new transaction is being opened by:
+Thread Id: 1 Thread Name: Tosca Commander Main GUI Thread
+   at System.Environment.get_StackTrace()
+   at Tricentis.TCCore.Persistency.Repository.ClusterRepository.ClusterRepository.CreateRepositoryTransaction(Boolean readOnly)
+   at Tricentis.TCCore.Persistency.Repository.ClusterRepository.ClusterRepository.BeginReadOnlyTransaction()
+   at Tricentis.TCCore.Persistency.ObjectHandler.PreloadClusterObjects(IEnumerable`1 objects)
+   at Tricentis.TCCore.GUI.Search.SearchForm.ShowResults(PObjectRefList`1 results)
+   at Tricentis.TCCore.GUI.Search.SearchForm.UpdateColumns()
+   at Tricentis.TCCore.GUI.Search.SearchForm.set_ColumnsChoosingObjectType(String value)
+   at Tricentis.TCCore.GUI.Search.SearchForm.ComboBoxType_SelectedIndexChanged_1(Object sender, EventArgs e)
+   at DevExpress.XtraEditors.Repository.RepositoryItemComboBox.RaiseSelectedIndexChanged(EventArgs e)
+   at DevExpress.XtraEditors.ComboBoxEdit.UpdatePopupEditValueIndex(Int32 prevIndex)
+   at DevExpress.XtraEditors.ComboBoxEdit.set_EditValue(Object value)
+   at DevExpress.XtraEditors.ComboBoxEdit.set_SelectedItem(Object value)
+   at DevExpress.XtraEditors.ComboBoxEdit.set_SelectedIndex(Int32 value)
+   at Tricentis.TCCore.GUI.Search.SearchForm.SetTypeCombobox()
+   at Tricentis.TCCore.GUI.Search.SearchForm..ctor(PersistableObject obj, Boolean showModify, String startupTQLSearchString)
+   at Tricentis.TCCore.GUI.CommanderWindow.OpenDisplayWindow(PersistableObject searchObject, String title, String tqlSearchRequest)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at System.Windows.Forms.Control.InvokeMarshaledCallbackDo(ThreadMethodEntry tme)
+   at System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Windows.Forms.Control.InvokeMarshaledCallbacks()
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at DevExpress.XtraEditors.XtraForm.WndProc(Message& msg)
+   at DevExpress.XtraBars.Ribbon.RibbonForm.WndProc(Message& msg)
+   at System.Windows.Forms.NativeWindow.Callback(HWND hWnd, MessageId msg, WPARAM wparam, LPARAM lparam)
+   at Windows.Win32.PInvoke.DispatchMessage(MSG* lpMsg)
+   at System.Windows.Forms.Application.ComponentManager.Microsoft.Office.IMsoComponentManager.FPushMessageLoop(UIntPtr dwComponentID, msoloop uReason, Void* pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(msoloop reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(msoloop reason, ApplicationContext context)
+   at Tricentis.TCCore.GUI.Program.RunCommanderWindow(String[] args)
+   at Tricentis.TCCore.GUI.Program.Main(String[] args)
+[0] 21:22:10: Tricentis.TCCore.Persistency.FrameworkException: There is already an open transaction
+   at Tricentis.TCCore.Persistency.Repository.ClusterRepository.ClusterRepository.CreateRepositoryTransaction(Boolean readOnly)
+   at Tricentis.TCCore.Persistency.Repository.ClusterRepository.ClusterRepository.BeginReadOnlyTransaction()
+   at Tricentis.TCCore.Persistency.ObjectHandler.PreloadClusterObjects(IEnumerable`1 objects)
+   at Tricentis.TCCore.GUI.Search.SearchForm.ShowResults(PObjectRefList`1 results)
+   at Tricentis.TCCore.GUI.Search.SearchForm.UpdateColumns()
+   at Tricentis.TCCore.GUI.Search.SearchForm.set_ColumnsChoosingObjectType(String value)
+   at Tricentis.TCCore.GUI.Search.SearchForm.ComboBoxType_SelectedIndexChanged_1(Object sender, EventArgs e)
+   at DevExpress.XtraEditors.Repository.RepositoryItemComboBox.RaiseSelectedIndexChanged(EventArgs e)
+   at DevExpress.XtraEditors.ComboBoxEdit.UpdatePopupEditValueIndex(Int32 prevIndex)
+   at DevExpress.XtraEditors.ComboBoxEdit.set_EditValue(Object value)
+   at DevExpress.XtraEditors.ComboBoxEdit.set_SelectedItem(Object value)
+   at DevExpress.XtraEditors.ComboBoxEdit.set_SelectedIndex(Int32 value)
+   at Tricentis.TCCore.GUI.Search.SearchForm.SetTypeCombobox()
+   at Tricentis.TCCore.GUI.Search.SearchForm..ctor(PersistableObject obj, Boolean showModify, String startupTQLSearchString)
+   at Tricentis.TCCore.GUI.CommanderWindow.OpenDisplayWindow(PersistableObject searchObject, String title, String tqlSearchRequest)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+--- End of stack trace from previous location ---
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at Tricentis.TCCore.GUI.CommanderWindow.TryInvoke(Delegate method, Object[] args)
+   at Tricentis.TCCore.GUI.Tasks.GuiTaskContext.ShowDisplayWindow(PersistableObject searchObject, String title, String tqlSearchRequest)
+   at Tricentis.TCCore.Persistency.Tasks.TaskContext.ShowDisplayList(String title, IEnumerable`1 objects)
+   at Tricentis.QTestIntegrationAddIn.Services.QTestService.ShowErrors()
+[3] 21:22:10:  Save finished!
+[4] 21:22:10:  ShowStatusInfo: 'Link with qTest finalizing ...'
+[4] 21:22:10:  ShowStatusInfo: 'Link with qTest finished'
+[3] 21:22:10: Task 'Link with qTest' finished
+[4] 21:22:10:  ShowStatusInfo: 'Ready'
+[4] 21:22:10:  ShowStatusInfo: 'Link with qTest finalizing ...'
+[4] 21:22:10:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 21:22:10:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 21:22:10:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 21:22:10:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 21:22:10:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 21:22:10:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 21:22:10:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 21:22:10:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 21:22:10:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 21:22:10:  ShowStatusInfo: 'Ready'
+[4] 21:22:10:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 21:22:10:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 21:22:10:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 21:22:10:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 21:22:10:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 21:22:10:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 21:22:10:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 21:22:10:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 21:22:10:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 21:22:10:  ShowStatusInfo: 'Ready'
+[4] 21:22:10:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 21:22:10:  ShowStatusInfo: 'Refresh all finished'
+[4] 21:22:10:  ShowStatusInfo: 'Link with qTest finished'
+[3] 21:22:10: Task 'Link with qTest' finished
+[4] 21:22:14:  ShowStatusInfo: '1 object selected'
+[4] 21:22:14:  ShowStatusInfo: 'Ready'
+[4] 21:23:32:  ShowStatusInfo: '1 object selected'
+[4] 21:23:33:  ShowStatusInfo: 'Ready'
+[4] 21:23:50:  ShowStatusInfo: '1 object selected'
+[4] 21:23:50:  ShowStatusInfo: 'Ready'
+[4] 21:23:54:  ShowStatusInfo: '1 object selected'
+[4] 21:23:54:  ShowStatusInfo: 'Ready'
+[4] 21:23:54:  ShowStatusInfo: '1 object selected'
+[4] 21:23:54:  ShowStatusInfo: 'Ready'
+[3] 21:24:07: Task 'Tosca Copilot Explain This Test' started on '/TestCases/LoginLibrary/TC1'
+[4] 21:24:07:  ShowStatusInfo: 'Tosca Copilot Explain This Test'
+[4] 21:24:07:  ShowStatusInfo: 'Ready'
+[4] 21:24:07:  ShowStatusInfo: 'Explain This Test finalizing ...'
+[4] 21:24:07:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 21:24:07:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 21:24:07:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 21:24:07:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 21:24:07:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 21:24:07:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 21:24:07:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 21:24:07:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 21:24:07:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 21:24:07:  ShowStatusInfo: 'Ready'
+[4] 21:24:07:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 21:24:07:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 21:24:07:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 21:24:07:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 21:24:07:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 21:24:07:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 21:24:07:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 21:24:07:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 21:24:07:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 21:24:07:  ShowStatusInfo: 'Ready'
+[4] 21:24:07:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 21:24:08:  ShowStatusInfo: 'Refresh all finished'
+[4] 21:24:08:  ShowStatusInfo: 'Explain This Test finished'
+[3] 21:24:08: Task 'Tosca Copilot Explain This Test' finished
+[4] 21:24:08:  ShowStatusInfo: 'Ready'
+[4] 21:24:18:  ShowStatusInfo: '1 object selected'
+[4] 21:24:18:  ShowStatusInfo: 'Ready'
+[4] 21:24:54:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 21:24:54:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 21:24:54:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 21:24:54:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 21:24:54:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 21:24:54:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 21:24:54:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 21:24:54:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 21:24:54:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 21:24:54:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 21:24:54:  ShowStatusInfo: 'Ready'
+[4] 21:24:54:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 21:24:54:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 21:24:54:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 21:24:54:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 21:24:54:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 21:24:54:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 21:24:54:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 21:24:54:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 21:24:54:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 21:24:54:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 21:24:54:  ShowStatusInfo: 'Ready'
+[4] 21:24:54:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 21:24:54:  ShowStatusInfo: 'Refresh all finished'
+[4] 21:24:54:  ShowStatusInfo: 'Ready'
+[2] 21:24:56: CommanderAssemblyResolver: Unable to resolve: System.Windows.Forms.resources, Version=8.0.0.0, Culture=en-IN, PublicKeyToken=b77a5c561934e089
+[2] 21:24:56: CommanderAssemblyResolver: Unable to resolve: System.Windows.Forms.resources, Version=8.0.0.0, Culture=en, PublicKeyToken=b77a5c561934e089
+[3] 21:25:05: Task 'Create TestPlanning User' started on '/TestPlanning/TestPlanning Session'
+[4] 21:25:05:  ShowStatusInfo: 'Create TestPlanning User'
+[4] 21:25:05:  ShowStatusInfo: 'TestPlanning User finished'
+[3] 21:25:05: Task 'Create TestPlanning User' finished
+[4] 21:25:05:  ShowStatusInfo: 'Ready'
+[4] 21:25:05:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 21:25:05:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 21:25:05:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 21:25:05:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 21:25:05:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 21:25:05:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 21:25:05:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 21:25:05:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 21:25:05:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 21:25:05:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 21:25:05:  ShowStatusInfo: 'Ready'
+[4] 21:25:05:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 21:25:05:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 21:25:05:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 21:25:05:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 21:25:05:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 21:25:05:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 21:25:05:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 21:25:05:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 21:25:05:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 21:25:05:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 21:25:05:  ShowStatusInfo: 'Ready'
+[4] 21:25:05:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 21:25:05:  ShowStatusInfo: 'Refresh all finished'
+[3] 21:25:08: Task 'Delete' started on '/TestPlanning/TestPlanning Session/TestPlanning User'
+[4] 21:25:08:  ShowStatusInfo: 'Delete'
+[4] 21:25:08:  ShowStatusInfo: 'Delete TestPlanning User finalizing ...'
+[4] 21:25:08:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 21:25:08:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 21:25:08:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 21:25:08:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 21:25:08:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 21:25:08:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 21:25:08:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 21:25:08:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 21:25:08:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 21:25:08:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 21:25:08:  ShowStatusInfo: 'Ready'
+[4] 21:25:08:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 21:25:08:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 21:25:08:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 21:25:08:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 21:25:08:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 21:25:08:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 21:25:08:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 21:25:08:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 21:25:08:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 21:25:08:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 21:25:08:  ShowStatusInfo: 'Ready'
+[4] 21:25:08:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 21:25:08:  ShowStatusInfo: 'Refresh all finished'
+[4] 21:25:08:  ShowStatusInfo: 'Delete TestPlanning User finished'
+[3] 21:25:08: Task 'Delete' TestPlanning User finished
+[4] 21:25:13:  ShowStatusInfo: 'Ready'
+[4] 21:25:13:  ShowStatusInfo: '1 object selected'
+[4] 21:25:13:  ShowStatusInfo: 'Ready'
+[4] 21:25:14:  ShowStatusInfo: '1 object selected'
+[4] 21:25:14:  ShowStatusInfo: 'Ready'
+[3] 21:25:20: Task 'Export Subset' started on '/TestPlanning/TestPlanning Session'
+[4] 21:25:20:  ShowStatusInfo: 'Export Subset'
+[4] 21:25:22:  ShowStatusInfo: 'Ready'
+[4] 21:25:22:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 21:25:22:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 21:25:22:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 21:25:22:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 21:25:22:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 21:25:22:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 21:25:22:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 21:25:22:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 21:25:22:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 21:25:22:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 21:25:22:  ShowStatusInfo: 'Ready'
+[4] 21:25:22:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 21:25:22:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 21:25:22:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 21:25:22:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 21:25:22:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 21:25:22:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 21:25:22:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 21:25:22:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 21:25:22:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 21:25:22:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 21:25:22:  ShowStatusInfo: 'Ready'
+[4] 21:25:22:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 21:25:22:  ShowStatusInfo: 'Refresh all finished'
+[4] 21:25:22:  ShowStatusInfo: 'Ready'
+[4] 21:25:22:  ShowStatusInfo: 'Export Subset '
+[3] 21:25:22: Task 'Export Subset' finished
+[4] 21:25:27:  ShowStatusInfo: 'Ready'
+[4] 21:25:49:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 21:25:49:  ShowStatusInfo: 'Ready'
+[4] 21:25:49:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 21:25:49:  ShowStatusInfo: 'Ready'
+[4] 21:25:49:  ShowStatusInfo: 'Refresh view finished'
+[4] 21:25:54:  ShowStatusInfo: '1 object selected'
+[4] 21:25:54:  ShowStatusInfo: 'Ready'
+[4] 21:25:55:  ShowStatusInfo: '1 object selected'
+[4] 21:25:55:  ShowStatusInfo: 'Ready'
+[4] 21:25:56:  ShowStatusInfo: '1 object selected'
+[4] 21:25:56:  ShowStatusInfo: 'Ready'
+[4] 21:25:57:  ShowStatusInfo: '1 object selected'
+[4] 21:25:57:  ShowStatusInfo: 'Ready'
+[4] 21:25:59:  ShowStatusInfo: '1 object selected'
+[4] 21:25:59:  ShowStatusInfo: 'Ready'
+[4] 21:26:04:  ShowStatusInfo: '1 object selected'
+[4] 21:26:04:  ShowStatusInfo: 'Ready'
+[4] 21:26:06:  ShowStatusInfo: '1 object selected'
+[4] 21:26:08:  ShowStatusInfo: 'Ready'
+[4] 21:26:09:  ShowStatusInfo: '1 object selected'
+[4] 21:26:09:  ShowStatusInfo: 'Ready'
+[4] 21:26:11:  ShowStatusInfo: '1 object selected'
+[4] 21:26:11:  ShowStatusInfo: 'Ready'
+[4] 21:26:28:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 21:26:28:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 21:26:28:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 21:26:28:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 21:26:28:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 21:26:28:  ShowStatusInfo: 'Ready'
+[4] 21:26:28:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 21:26:28:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 21:26:28:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 21:26:28:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 21:26:28:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 21:26:28:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 21:26:28:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 21:26:28:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 21:26:28:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 21:26:28:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 21:26:28:  ShowStatusInfo: 'Ready'
+[4] 21:26:28:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 21:26:28:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 21:26:28:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 21:26:28:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 21:26:28:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 21:26:28:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 21:26:28:  ShowStatusInfo: 'Refresh all finished'
+[4] 21:26:30:  ShowStatusInfo: 'Ready'
+[4] 21:26:30:  ShowStatusInfo: 'Import Subset finalizing ...'
+[4] 21:26:30:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 21:26:30:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 21:26:30:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 21:26:30:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 21:26:30:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 21:26:30:  ShowStatusInfo: 'Ready'
+[4] 21:26:30:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 21:26:30:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 21:26:30:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 21:26:30:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 21:26:30:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 21:26:30:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 21:26:30:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 21:26:30:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 21:26:30:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 21:26:30:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 21:26:30:  ShowStatusInfo: 'Ready'
+[4] 21:26:30:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 21:26:30:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 21:26:30:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 21:26:30:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 21:26:30:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 21:26:30:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 21:26:30:  ShowStatusInfo: 'Refresh all finished'
+[4] 21:26:30:  ShowStatusInfo: 'Import Subset finished'
+[3] 21:26:30: Task 'Import Subset' finished
+[4] 21:26:33:  ShowStatusInfo: 'Ready'
+[4] 21:26:33:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 21:26:33:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 21:26:33:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 21:26:33:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 21:26:34:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 21:26:34:  ShowStatusInfo: 'Ready'
+[4] 21:26:34:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 21:26:34:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 21:26:34:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 21:26:34:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 21:26:34:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 21:26:34:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 21:26:34:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 21:26:34:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 21:26:34:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 21:26:34:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 21:26:34:  ShowStatusInfo: 'Ready'
+[4] 21:26:34:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 21:26:34:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 21:26:34:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 21:26:34:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 21:26:34:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 21:26:34:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 21:26:34:  ShowStatusInfo: 'Refresh all finished'
+[4] 21:26:34:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 21:26:34:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 21:26:34:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 21:26:34:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 21:26:34:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 21:26:34:  ShowStatusInfo: 'Ready'
+[4] 21:26:34:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 21:26:34:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 21:26:34:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 21:26:34:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 21:26:34:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 21:26:34:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 21:26:34:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 21:26:34:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 21:26:34:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 21:26:34:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 21:26:34:  ShowStatusInfo: 'Ready'
+[4] 21:26:34:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 21:26:34:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 21:26:34:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 21:26:34:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 21:26:34:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 21:26:34:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 21:26:34:  ShowStatusInfo: 'Refresh all finished'
+[4] 21:27:04:  ShowStatusInfo: 'Ready'
+[4] 21:27:04:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 21:27:04:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 21:27:04:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 21:27:04:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 21:27:04:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 21:27:04:  ShowStatusInfo: 'Ready'
+[4] 21:27:04:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 21:27:04:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 21:27:04:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 21:27:04:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 21:27:04:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 21:27:04:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 21:27:04:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 21:27:04:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 21:27:04:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 21:27:04:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 21:27:04:  ShowStatusInfo: 'Ready'
+[4] 21:27:04:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 21:27:04:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 21:27:04:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 21:27:04:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 21:27:04:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 21:27:04:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 21:27:04:  ShowStatusInfo: 'Refresh all finished'
+[4] 21:27:04:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 21:27:04:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 21:27:04:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 21:27:04:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 21:27:04:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 21:27:04:  ShowStatusInfo: 'Ready'
+[4] 21:27:04:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 21:27:04:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 21:27:04:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 21:27:04:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemo3''
+[4] 21:27:04:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 21:27:04:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 21:27:04:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 21:27:04:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 21:27:04:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 21:27:04:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 21:27:04:  ShowStatusInfo: 'Ready'
+[4] 21:27:04:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 21:27:04:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 21:27:04:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 21:27:04:  ShowStatusInfo: 'Refresh detail view 'ToscaDemo3''
+[4] 21:27:04:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 21:27:04:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 21:27:04:  ShowStatusInfo: 'Refresh all finished'
+[4] 21:27:09:  ShowStatusInfo: 'Ready'
+[4] 21:27:54:  ShowStatusInfo: 'Saving ...'
+[3] 21:27:54:  Save started!
+[3] 21:27:54: QTestIntegrationAddIn beginning to Export to QTest
+[3] 21:27:54: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 21:27:54: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 21:27:54: LinkTcToQTestService grouping testcases by same endpoint
+[3] 21:27:54: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 21:27:54: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 21:27:55:  Save finished!
+[4] 21:27:55:  ShowStatusInfo: 'Saved successfully'
+[4] 21:27:55:  ShowStatusInfo: 'Ready'
+[3] 21:27:57: Closing Workspace!
+[3] 21:27:57: Log closed!
