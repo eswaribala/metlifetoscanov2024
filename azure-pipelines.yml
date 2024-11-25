@@ -3,8 +3,8 @@ trigger:
     include:
       - main
 
-pool:
-  name: 'OnPremPool'  # Replace with the name of your on-premises agent pool
+#pool:
+  #name: 'agent0'  # Replace with the name of your on-premises agent pool
 
 variables:
   tosciPath: 'C:\\Program Files (x86)\\TRICENTIS\\Tosca Testsuite\\ToscaCI'  # Path to ToscaCI.exe
