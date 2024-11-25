@@ -7,4 +7,4 @@ pool:
 steps:
   - task: CmdLine@2
     inputs:
-      script: 'H:\\toscaazdo\\check.bat'
+      script: "$(Build.SourcesDirectory)\\check.bat"
