@@ -31,5 +31,5 @@ stages:
           - task: PublishTestResults@2
             inputs:
               testResultsFormat: 'JUnit'
-              testResultsFiles: 'C:\\Path\\To\\Results.xml'
+              testResultsFiles: '"H:\\toscaprojects\\saucelabdemo\\Results.xml'
               failTaskOnFailedTests: true
