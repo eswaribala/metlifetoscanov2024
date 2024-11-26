@@ -1,1 +1,10 @@
+trigger:
+  - toscaprojects
 
+pool:
+  vmImage: 'windows-latest'
+
+steps:
+  - script: echo "Test CI"
+    displayName: 'Run Online Script'
+    
