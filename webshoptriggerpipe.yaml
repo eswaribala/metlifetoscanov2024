@@ -1,0 +1,25 @@
+trigger:
+  branches:
+    include:
+    - toscaprojects
+    #exclude:
+    #- feature_branches
+
+pool:
+  vmImage: 'windows-latest'
+
+
+stages:
+   
+  - stage: Test
+    displayName: Tosca test
+    jobs:
+      - job: Test
+        steps:
+        - script: |
+            cd C:\Windows\System32>cd C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\ToscaCommander
+            TCShell.exe -workspace "H:\toscaprojects\WebShopMultiUserProject\WebShopMultiUserProject.tws"  -login "Admin" ""
+          displayName: "License check for Tosca Projects"
+        
+          
+  
